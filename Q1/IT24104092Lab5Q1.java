@@ -12,7 +12,7 @@ public class IT24104092Lab5Q1 {
         System.out.print("Enter the third integer: ");
         int num3 = scanner.nextInt();
 
-        // Find the smallest number
+        
         int smallest = num1;
         if (num2 < smallest) {
             smallest = num2;
@@ -21,7 +21,7 @@ public class IT24104092Lab5Q1 {
             smallest = num3;
         }
 
-        // Find the largest number
+        
         int largest = num1;
         if (num2 > largest) {
             largest = num2;
