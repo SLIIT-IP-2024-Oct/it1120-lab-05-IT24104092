@@ -33,6 +33,5 @@ public class IT24104092Lab5Q1 {
         System.out.println("The smallest number is: " + smallest);
         System.out.println("The largest number is: " + largest);
 
-        scanner.close();
     }
 }
