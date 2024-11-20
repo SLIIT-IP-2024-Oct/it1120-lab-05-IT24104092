@@ -31,7 +31,5 @@ public class IT24104092Lab5Q2 {
         } else {
             System.out.println("Input must be a number 0 or greater");
         }
-
-        scanner.close();
     }
 }
